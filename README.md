@@ -10,5 +10,5 @@ This repository contains examples and code implementations for automated softwar
 - Cross-browser testing capabilities.
 
 - Sample test scenarios for web form validations, login functionality, and more.
-
+- 
 - Screenshots of the program's output during Selenium test runs.
