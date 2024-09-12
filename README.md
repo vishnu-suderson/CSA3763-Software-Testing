@@ -3,12 +3,12 @@ This repository contains examples and code implementations for automated softwar
 
 ## Features
 
--Unit testing using JUnit.
+- Unit testing using JUnit.
 
--Automated web testing using Selenium WebDriver.
+- Automated web testing using Selenium WebDriver.
 
--Cross-browser testing capabilities.
+- Cross-browser testing capabilities.
 
--Sample test scenarios for web form validations, login functionality, and more.
+- Sample test scenarios for web form validations, login functionality, and more.
 
--Screenshots of the program's output during Selenium test runs.
+- Screenshots of the program's output during Selenium test runs.
